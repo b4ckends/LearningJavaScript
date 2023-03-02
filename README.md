@@ -1,2 +1,2 @@
 # LearningJavaScript
-Learning js
+Here will be my JavaScript knowledge
