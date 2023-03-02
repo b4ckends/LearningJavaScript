@@ -20,5 +20,5 @@ undefined
 typeof 40
 
 typeof "dfdjdjdjdjd"
-
+    
 typeof true 
