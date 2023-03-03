@@ -34,7 +34,7 @@ var operation = function(a, b) {
 
 console.log(operation(1, 2))
 
-// pl
+// Function inside a expression function 
 
 var runIt = function(a) {
     console.log(a);
