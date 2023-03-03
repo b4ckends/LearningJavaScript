@@ -16,7 +16,7 @@ undefined
 [1, 2, 3]
 { name: "elon"}
 
-// operator
+// operators
 typeof 40
 
 typeof "dfdjdjdjdjd"
