@@ -17,7 +17,7 @@ function greetStudendts(student) {
 
 greetStudendts('John');
 
-// Expresion
+// Expression
 
 var sum = function(a, b) {
     var result = a + b;
@@ -26,7 +26,7 @@ var sum = function(a, b) {
 
 console.log(sum(1, 1));
 
-// Better way to do the operation in a expresive function using return
+// Better way to do the operation in a expressive function using return
 
 var operation = function(a, b) {
     return a * b;
