@@ -17,3 +17,5 @@ var person = {
     last_name: "de santa",
     age: 48 
 }
+
+console.log(person);
