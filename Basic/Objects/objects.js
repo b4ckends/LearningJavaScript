@@ -7,4 +7,4 @@ var myCar = {
     }
 };
 
-console.log(myCar.carDetail());
+myCar.carDetail();
