@@ -1,4 +1,4 @@
-number = 34343;
+number = 1;
 
 switch (number) {
     case 1: 
@@ -13,4 +13,21 @@ switch (number) {
     default:
         console.log("Nothing");
         break;
+}
+
+// Another case for switch
+
+x = 1;
+y = 0;
+
+switch (true) {
+    case (x > y):
+        console.log("x higher than y");
+    break;
+    case (x === y):
+        console.log("x equal than y");
+    break;
+    default:
+        console.log("x lower than y");
+    break;
 }

@@ -11,7 +11,6 @@ if (user_option === "rock" && computer === "paper") {
     console.log("You win");
 } else if (user_option === "rock" && computer == "scissors") {
     console.log("You win");
-}
-else {
+} else {
     console.log("tie");
 }
