@@ -27,3 +27,10 @@ function plus(num, ...values) {
 };
 
 plus(1, 1, 2, 3);
+
+const s = (a, b) => {
+    return a + b;
+}
+
+let number = s(5435252435, 9999952452535);
+console.log(number);
