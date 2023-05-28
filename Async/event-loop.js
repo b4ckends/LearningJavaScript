@@ -10,6 +10,6 @@ console.log('Hi');
 
 setTimeout(function timeout() {
     console.log('Click the button!');
-}, 5000);
+}, 5000);lD
 
 console.log('Welcome to the loop.');
