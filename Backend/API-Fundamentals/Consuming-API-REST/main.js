@@ -1,6 +1,6 @@
 console.log('Hello, world')
 
-const API_URL = 'https://api.thecatapi.com/v1/images/search?limit=3';
+const API_URL = 'https://api.thecatapi.com/v1/images/search?limit=3&api_key=live_EWZan06wFP5a8vLluJLI3ZlFSdHJDt1ifb3m1K1g32j610wLFbqjnnYfZQA9xvIr';
 
 // const btn = document.querySelector('#button');
 // btn.addEventListener('click', alr);
